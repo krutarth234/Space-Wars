@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sinan/Documents/Game1011_Assignmentz/G1011_Assignmentz",
+      "program": "/Users/sinan/Documents/Game1011_Assignmentz/G1011_Assignmentz/build/Debug/outDebug"
+    }
+  ]
+}
